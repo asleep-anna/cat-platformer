@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/evfdl/Documents/Github/cat-platformer/CatPrototype/Content/ThirdPerson/Blueprints/BP_YarnCat.uasset",
+				"C:/Users/evfdl/Documents/Github/cat-platformer/CatPrototype/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/evfdl/Documents/Github/cat-platformer/CatPrototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/evfdl/Documents/Github/cat-platformer/CatPrototype/Content/ThirdPerson/Blueprints/BP_GrapplePoint.uasset",
 				"C:/Users/aschr/Documents/GitHub/cat-platformer/CatPrototype/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/aschr/Documents/GitHub/cat-platformer/CatPrototype/Content/Telekenisis/BP_MagneticItem.uasset",
 				"C:/Users/aschr/Documents/GitHub/cat-platformer/CatPrototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
